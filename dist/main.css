@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  
+body{
+  font-family:Arial, Helvetica, sans-serif;
+  background-image: url(/dist/images/istockphoto-1160055376-612x612.jpg); 
+  background-repeat: none;
+  background-size: 100%;
+  
+}
+
+.input{
+  text-align: center;
+  margin: 50px 0;
+}
+
+
+
